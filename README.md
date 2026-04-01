@@ -29,7 +29,7 @@
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-       <a href="https://github.com/kyron-x/"> <img src="https://skillicons.dev/icons?i=github" /></a>
+       <a href="https://github.com/KyronCore/"> <img src="https://skillicons.dev/icons?i=github" /></a>
        <a href="https://www.linkedin.com/in/ayouboumouloud/"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
     </a>
 </p>
