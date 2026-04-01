@@ -2,7 +2,7 @@
 <h1 font="bold" align="center">KyronX</h1> 
 </br>
 
-<p align="center"> Developer focused on web development, Linux, and cybersecurity. I learn by building small projects, testing ideas, and improving through hands-on practice. I work with JavaScript, HTML, CSS, and Linux tools to understand how systems behave and how to build and secure them. My goal is to grow through consistent practice and real project experience while strengthening both development and security skills.</p>
+<p align="center"> Developer focused on web development,and Linux. I learn by building small projects, testing ideas, and improving through hands-on practice. I work with JavaScript, HTML, CSS, and Linux tools to understand how systems behave and how to build and secure them. My goal is to grow through consistent practice and real project experience while strengthening both development and security skills.</p>
 </br>
 
 # Skills
@@ -14,7 +14,7 @@
 </p>
 </br>
 
-# ToolsSkills
+# Tools
 
 </br>
 <p align="center">
